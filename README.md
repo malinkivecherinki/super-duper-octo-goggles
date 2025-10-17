@@ -1,27 +1,32 @@
-# Project
+# VisionAPI
 
-## Update 41
+Computer vision API wrapper
 
-This project includes various utilities and tools.
+## Features
 
-### Features
+- Core functionality implementation
+- Well-documented codebase
+- Easy to use API
+- Extensible architecture
 
-- Feature 41
-- Utility functions
-- Configuration management
-
-### Installation
+## Installation
 
 \`\`\`bash
 npm install
+# or
+pip install -r requirements.txt
 \`\`\`
 
-### Usage
+## Usage
 
 \`\`\`javascript
-const utils = require('./src/utils');
+const VisionAPI = require('./src/index');
 \`\`\`
 
-### Changelog
+## Development
 
-- Update 41: Added new features and improvements
+This project is actively maintained and developed.
+
+## License
+
+MIT
