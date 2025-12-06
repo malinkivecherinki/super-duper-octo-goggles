@@ -19,3 +19,9 @@ def divide(a, b):
 
 if __name__ == "__main__":
     print("Calculator module loaded")
+
+
+# Update 21
+def new_function_21():
+    """New function added in update 21."""
+    return 21
