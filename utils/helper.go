@@ -1,6 +1,5 @@
 # Super Duper Octo Goggles - Development Update
 
-# Feature implementation
 def main():
     """Main entry point"""
     print("Processing data...")
